@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shieldsnapreport-maker.github.io/sidetally/sitemap.xml
